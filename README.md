@@ -8,7 +8,7 @@ This repository contains the complete data analysis project, from data collectio
 
 This dashboard visualizes the project's key findings, comparing market sensitivities to the Federal Reserve's interest rate policies.
 
-![Power BI Dashboard Preview](Dash.png)
+![Power BI Dashboard Preview](Dashboard.png)
 
 ---
 
